@@ -1,3 +1,23 @@
-p {
+body {
+	background: #cccccc
+}
+
+#banner {
+	
+}
+
+h1 {
 	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#azy {
+	font-size: 20px
+}
+
+em strong {
+	color: red ;
 }
