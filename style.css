@@ -1,9 +1,13 @@
 body {
-	background: #cccccc
+	
 }
 
 #banner {
-	
+	width: 100%;
+}
+
+.pincipal {
+	background: #cccccc
 }
 
 h1 {
@@ -20,4 +24,16 @@ p {
 
 em strong {
 	color: red ;
+}
+
+.itens {
+	font-style: italic;
+}
+
+.beneficios{
+	background: #FFFFFF;
+}
+
+h2 {
+	text-align: center;
 }
